@@ -20,7 +20,7 @@
   
   /* Header Styles */
   .navbar {
-    background-color: #01050a;
+    background-color: #0c0e7a;
     padding: 10px 0;
     position: sticky;
     top: 0;
@@ -34,7 +34,7 @@
   }
   
   .navbar .logo {
-    color: #5a28b6;
+    color: #d7e60b;
     font-size: 1.5rem;
     font-weight: 600;
   }
